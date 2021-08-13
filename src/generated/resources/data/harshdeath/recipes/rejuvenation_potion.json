@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "potions",
+  "pattern": [
+    "rwr",
+    "ebl",
+    "rdr"
+  ],
+  "key": {
+    "r": {
+      "tag": "forge:dusts/redstone"
+    },
+    "d": {
+      "tag": "forge:gems/diamond"
+    },
+    "e": {
+      "tag": "forge:gems/emerald"
+    },
+    "l": {
+      "tag": "forge:gems/lapis"
+    },
+    "w": {
+      "item": "minecraft:water_bucket"
+    },
+    "b": {
+      "item": "minecraft:glass_bottle"
+    }
+  },
+  "result": {
+    "item": "harshdeath:rejuvenation_potion"
+  }
+}

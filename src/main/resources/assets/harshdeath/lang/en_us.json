@@ -1,0 +1,10 @@
+{
+  "item.harshdeath.rejuvenation_potion": "Rejuvenation Potion",
+  "message.harshdeath.rejuvenation_potion": "Drink this potion to get rid of the harsh death effect",
+
+  "effect.harshdeath.death1": "Harsh Death",
+  "effect.harshdeath.death2": "Harsh Death",
+  "effect.harshdeath.death3": "Harsh Death",
+  "effect.harshdeath.death4": "Harsh Death",
+  "effect.harshdeath.death5": "Harsh Death"
+}

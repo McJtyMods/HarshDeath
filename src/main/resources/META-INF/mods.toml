@@ -1,0 +1,23 @@
+modLoader="javafml"
+loaderVersion="[33,)"
+license="MIT License https://github.com/McJtyMods/FXControl/blob/1.16/LICENCE"
+issueTrackerURL="http://github.com/McJtyMods/HarshDeath/issues"
+displayURL="http://github.com/McJtyMods/HarshDeath/"
+#logoFile="examplemod.png" #optional
+#credits="Thanks for this example mod goes to Java" #optional
+authors="McJty"
+
+[[mods]]
+modId="harshdeath"
+version="${file.jarVersion}"
+displayName="HarshDeath"
+#updateJSONURL="http://myurl.me/" #optional
+description='''
+Be in control of spawns
+'''
+[[dependencies.harshdeath]]
+    modId="forge"
+    mandatory=true
+    versionRange="[33,)"
+    ordering="NONE"
+    side="BOTH"
